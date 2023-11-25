@@ -1,16 +1,25 @@
-### Hi there 👋
+```js
+import Desenvolvedor from "cinthiasschneider";
 
-<!--
-**cinthiasschneider/cinthiasschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "Cínthia Schneider";
+  area = "Desenvolvimento de Software";
+  cursos = "Análise e Desenvolvimento de Sitemas", "Jogos Digitais";
+  local = "São Lourenço do Sul - RS";
+}
 
-Here are some ideas to get you started:
+class Skills extends Desenvolvedor {
+  linguagens = ["Python, Java, JavaScript, C"];
+  bibliotecas = ["Node.js, Scikit-Learn, Pandas, TensorFlow"];
+  frameworks = ["Spring, Django, Flask"];
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cinthia.scheunemann@gmail.comL" alt="Gmail" /></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=cinthia-schneider" alt="LinkedIn"/></a>
+
+</p>
