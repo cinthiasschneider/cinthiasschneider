@@ -11,7 +11,7 @@ import Desenvolvedor from "cinthiasschneider";
 
 class SobreMim extends Desenvolvedor {
   nome = "cínthia schneider";
-  area = "machine learning";
+  area = "desenvolvimento fullstack";
   curso = "análise e desenvolvimento de sistemas";
 }
 ```
