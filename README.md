@@ -11,8 +11,8 @@ import Desenvolvedor from "cinthiasschneider";
 
 class SobreMim extends Desenvolvedor {
   nome = "cínthia schneider";
-  curso = "engenharia de controle e automação";
-  interesses = "robótica, programação, videogame, espaço";
+  funcao = "desenvolvedora";
+  linguagens = "python, javascript, php";
 }
 ```
 
